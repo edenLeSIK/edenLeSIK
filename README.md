@@ -1,4 +1,5 @@
-### 👋 Hi, I’m @eden
+### 👋 Hi, I’m @eden of (주) 래식
+### 👩🏻‍💻 Front-end Engineer
 <!-- ### 👀 I’m interested in ...
 ### 🌱 I’m currently learning ...
 ### 💞️ I’m looking to collaborate on ... -->
